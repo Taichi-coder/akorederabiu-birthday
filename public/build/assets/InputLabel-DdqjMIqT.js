@@ -1,0 +1,1 @@
+import{j as a}from"./app-D9X3kqGB.js";function o({value:t,className:l="",children:e,...s}){return a.jsx("label",{...s,className:"block text-md font-bold text-black-200 input3",children:t||e})}export{o as I};
